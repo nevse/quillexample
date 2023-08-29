@@ -1,6 +1,6 @@
-// import Quill from 'devextreme-quill';
-import "devextreme-quill/dist/dx-quill.min.js"
-import "devextreme-quill/dist/dx-quill.core.css";
+import Quill from 'devextreme-quill';
+// import "devextreme-quill/dist/dx-quill.min.js"
+// import "devextreme-quill/dist/dx-quill.core.css";
 
 // import Bold from 'devextreme-quill/formats/bold';
 // import Italic from 'devextreme-quill/formats/italic';
