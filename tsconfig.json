@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+      "target": "ES2015",
+      "outDir": "./Scripts/js",
+      "module": "ES2015",
+      "moduleResolution": "Node"
+    },
+    "include": [
+      "**/*.ts"
+  , "Scripts/dx-richedit-loader.js"  ]
+  }
